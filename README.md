@@ -25,6 +25,6 @@
 
 ## How to Play
 1. Clone the repository: `git clone <repository-url>`.
-2. Run `main.py` to start the game.
+2. Run `Thought Sprint.py` to start the game.
 
  
